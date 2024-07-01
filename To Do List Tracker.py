@@ -1,5 +1,5 @@
 f = 'todo.txt'
-print('hi')
+print('hijkio')
 def show():
     todo_file = open(f, 'r')
     counter = 1
