@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="944253ff-7187-46bc-9ad6-2e9167e39b3a" name="Changes" comment="n">
-      <change beforePath="$PROJECT_DIR$/codehs.py" beforeDir="false" />
-    </list>
+    <list default="true" id="944253ff-7187-46bc-9ad6-2e9167e39b3a" name="Changes" comment="n" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,9 +20,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "minecraftmuselk"
+  }
+}]]></component>
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="81ee3c54-b076-44e4-a806-c52afee8d397" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/minecraftmuselk/tools.git",
+    "accountId": "81ee3c54-b076-44e4-a806-c52afee8d397"
+  }
+}]]></component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -39,36 +49,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Python.Project Finance.executor": "Run",
-    "Python.Smiley.executor": "Run",
-    "Python.Test.executor": "Run",
-    "Python.To Do List Tracker.executor": "Run",
-    "Python.User_Interface.executor": "Run",
-    "Python.cart.executor": "Run",
-    "Python.codehs.executor": "Run",
-    "Python.financial-visualizer.executor": "Run",
-    "Python.mad_libs.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.quiz.executor": "Run",
-    "Python.reactor_mitigation.executor": "Run",
-    "Python.test.executor": "Run",
-    "Python.test2.executor": "Run",
-    "Python.test_name_function.executor": "Run",
-    "Python.todo.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/finan/PycharmProjects/tools",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python.Project Finance.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Smiley.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.To Do List Tracker.executor&quot;: &quot;Run&quot;,
+    &quot;Python.User_Interface.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cart.executor&quot;: &quot;Run&quot;,
+    &quot;Python.codehs.executor&quot;: &quot;Run&quot;,
+    &quot;Python.financial-visualizer.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mad_libs.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.quiz.executor&quot;: &quot;Run&quot;,
+    &quot;Python.reactor_mitigation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_name_function.executor&quot;: &quot;Run&quot;,
+    &quot;Python.todo.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/finan/PycharmProjects/tools&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "Python"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;Python&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -125,7 +135,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719854250681</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="n">
+      <option name="closed" value="true" />
+      <created>1719892494181</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1719892494181</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
